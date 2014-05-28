@@ -1,0 +1,4 @@
+cron:
+- description: Refresh bike infos
+  url: /
+  schedule: every 1 mins
